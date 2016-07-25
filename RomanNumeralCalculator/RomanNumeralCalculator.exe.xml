@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite name="AllTests" tests="4">
+		<testcase classname="AllTests" name="AddTwoRomanNumeralsTest"/>
+		<testcase classname="AllTests" name="SubtractTwoRomanNumeralsTest"/>
+		<testcase classname="AllTests" name="CheckIfLettersAreRomanNumeralTest"/>
+		<testcase classname="AllTests" name="CheckIfTheResultIsEqualOrLessThanZeroTest"/>
+	</testsuite>
+</testsuites>
